@@ -1,4 +1,5 @@
 ## Hi there 👋
+I have no software development background but I just got the role of a frontend developer at my student council. I'm interested in tech, startup and AI and this readme.md is a practice that established my transition from a vibe coder to a vibe coder who knows what they're doing
 
 <!--
 **quangminh210610-source/quangminh210610-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
